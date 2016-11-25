@@ -3,4 +3,3 @@ un shader qui permet de contrôler la lumière interne et externe de l'objet sé
 lorsqu'on veut creez un objet qui génére de la lumiére on veut pouvoir garder le control de sa texture
 pour évité de bruler cette texture lorsqu'on augmente sa luminosité j'utilise un node group
 l'astuce est simple et fonctionnel
-la version 2 permet de rendre l'objet transparent
